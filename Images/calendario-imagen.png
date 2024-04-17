@@ -1,0 +1,12 @@
+<html>
+<head>
+<link rel="stylesheet" href="style/style.css" type="text/css" />
+</head>
+
+<body>
+	<div id="principal">
+		<img id="error" src="style/404.jpg" />
+	</div>
+</body>
+
+</html>

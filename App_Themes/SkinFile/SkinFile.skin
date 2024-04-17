@@ -1,0 +1,122 @@
+<asp:GridView runat="server" PageSize="15" AllowPaging="False" ForeColor="Black" Font-Underline="False"
+    ForeName="Verdana" SkinId="GridViewSK1" CssClass="externo" AllowSorting="False"
+    GridLines="None" HeaderStyle-BorderColor="White" Font-Names="Verdana" Font-Size="8pt"
+    AlternatingRowStyle BackColor="White" Width="100%" BorderColor="#C9D0D3">
+    <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" Font-Underline="False" />
+    <RowStyle BackColor="#D5E4E9" ForeColor="#333333" Font-Size="8pt" Font-Underline="False" />
+    <EditRowStyle BackColor="#999999" Font-Underline="False" />
+    <SelectedRowStyle BackColor="#cccccc" Font-Bold="True" ForeColor="#333333" Font-Underline="False" />
+    <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <HeaderStyle BackColor="#28A2C9" Font-Bold="True" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <AlternatingRowStyle BackColor="White" ForeColor="#284775" Font-Underline="False" />
+</asp:GridView>
+
+<asp:GridView runat="server" PageSize="5" AllowPaging="False" ForeColor="Black" Font-Underline="False"
+    ForeName="Verdana" SkinId="GridViewAdjunto" CssClass="externo" AllowSorting="False"
+    GridLines="None" HeaderStyle-BorderColor="White" Font-Names="Verdana" Font-Size="8pt"
+    AlternatingRowStyle BackColor="White" Width="100%" BorderColor="#C9D0D3">
+    <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" Font-Underline="False" />
+    <RowStyle BackColor="#D5E4E9" ForeColor="#333333" Font-Size="8pt" Font-Underline="False" />
+    <EditRowStyle BackColor="#999999" Font-Underline="False" />
+    <SelectedRowStyle BackColor="#cccccc" Font-Bold="True" ForeColor="#333333" Font-Underline="False" />
+    <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <HeaderStyle BackColor="#28A2C9" Font-Bold="True" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <AlternatingRowStyle BackColor="White" ForeColor="#284775" Font-Underline="False" />
+</asp:GridView>
+
+<asp:GridView runat="server" PageSize="10" AllowPaging="False" ForeColor="Black"
+    ForeName="Verdana" SkinID="GridViewSK2" CssClass="externo" AllowSorting="False"
+    GridLines="None" HeaderStyle-BorderColor="White" Font-Names="Verdana" 
+    BackColor="Transparent" Font-Underline="False" BorderColor="#C9D0D3">
+    <FooterStyle Font-Bold="True" ForeColor="White" Font-Underline="False" />
+    <RowStyle BackColor="#D5E4E9" ForeColor="Black"  Font-Underline="False" />
+    <EditRowStyle Font-Underline="False" />
+    <SelectedRowStyle Font-Bold="False" ForeColor="#333333" Font-Underline="False" BackColor="#bfcddb" />
+    <PagerStyle ForeColor="Black" HorizontalAlign="Left" Font-Underline="False" Font-Size="10pt" />
+    <HeaderStyle BackColor="#28A2C9" Font-Bold="True" ForeColor="Black" HorizontalAlign="Left" Font-Underline="False" />
+</asp:GridView>
+
+<asp:GridView runat="server" PageSize="10" AllowPaging="True" ForeColor="Black" Font-Underline="False"
+    ForeName="Verdana" SkinId="GridViewSK3" CssClass="externo" AllowSorting="False"
+    GridLines="None" HeaderStyle-BorderColor="White" Font-Names="Verdana" Font-Size="8pt"
+    AlternatingRowStyle BackColor="White" Width="100%" BorderColor="#C9D0D3">
+    <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" Font-Underline="False" />
+    <RowStyle BackColor="#D5E4E9" ForeColor="#333333" Font-Size="8pt" Font-Underline="False" />
+    <EditRowStyle BackColor="#999999" Font-Underline="False" />
+    <SelectedRowStyle BackColor="#cccccc" Font-Bold="True" ForeColor="#333333" Font-Underline="False" />
+    <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <HeaderStyle BackColor="#28A2C9" Font-Bold="True" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <AlternatingRowStyle BackColor="White" ForeColor="#284775" Font-Underline="False" />
+</asp:GridView>
+
+
+<asp:GridView runat="server" PageSize="20" AllowPaging="True" ForeColor="Black" Font-Underline="False"
+    ForeName="Verdana" SkinId="GridViewSK4" CssClass="externo" AllowSorting="False"
+    GridLines="None" HeaderStyle-BorderColor="White" Font-Names="Verdana" Font-Size="8pt"
+    AlternatingRowStyle BackColor="White" Width="100%" BorderColor="#C9D0D3">
+    <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" Font-Underline="False" />
+<%--    <RowStyle BackColor="#D5E4E9" ForeColor="#333333" Font-Size="8pt" Font-Underline="False" />  --%>
+    <EditRowStyle BackColor="#999999" Font-Underline="False" />
+<%--    <SelectedRowStyle BackColor="#cccccc" Font-Bold="True" ForeColor="#333333" Font-Underline="False" />    --%>
+    <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <HeaderStyle BackColor="#28A2C9" Font-Bold="True" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+<%--    <AlternatingRowStyle BackColor="White" ForeColor="#284775" Font-Underline="False" />         --%>
+</asp:GridView>
+
+
+<asp:GridView runat="server" PageSize="5" AllowPaging="False" ForeColor="Black" Font-Underline="False"
+    ForeName="Verdana" SkinId="GridViewSK5" CssClass="externo" AllowSorting="False"
+    GridLines="Both" HeaderStyle-BorderColor="White" Font-Names="Verdana" Font-Size="8pt"
+    AlternatingRowStyle BackColor="White" Width="100%" BorderColor="#C9D0D3">
+    <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" Font-Underline="False" />
+    <RowStyle BackColor="#D5E4E9" ForeColor="#333333" Font-Size="8pt" Font-Underline="False" />
+    <EditRowStyle BackColor="#999999" Font-Underline="False" />
+    <SelectedRowStyle BackColor="#cccccc" Font-Bold="True" ForeColor="#333333" Font-Underline="False" />
+    <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <HeaderStyle BackColor="#28A2C9" Font-Bold="True" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <AlternatingRowStyle BackColor="White" ForeColor="#284775" Font-Underline="False" />
+</asp:GridView>
+
+<asp:GridView runat="server" PageSize="15" AllowPaging="False" ForeColor="Black" Font-Underline="False"
+    ForeName="Verdana" SkinId="GridViewSK6" CssClass="externo" AllowSorting="False"
+    GridLines="Both" HeaderStyle-BorderColor="White" Font-Names="Verdana" Font-Size="8pt"
+    AlternatingRowStyle BackColor="White" Width="95%" BorderColor="#000000">
+    <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" Font-Underline="False" />
+    <RowStyle BackColor="#D5E4E9" ForeColor="#333333" Font-Size="8pt" Font-Underline="False" />
+    <EditRowStyle BackColor="#999999" Font-Underline="False" />
+    <SelectedRowStyle BackColor="#cccccc" Font-Bold="True" ForeColor="#333333" Font-Underline="False" />
+    <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <HeaderStyle BackColor="#28A2C9" Font-Bold="True" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <AlternatingRowStyle BackColor="White" ForeColor="#284775" Font-Underline="False" />
+</asp:GridView>
+
+<asp:GridView runat="server" PageSize="15" AllowPaging="False" ForeColor="Black" Font-Underline="False"
+    ForeName="Verdana" SkinId="GridViewSK7" CssClass="externo" AllowSorting="False"
+    GridLines="Both" HeaderStyle-BorderColor="Black" Font-Names="Verdana" Font-Size="8pt"
+    AlternatingRowStyle BackColor="White" Width="95%" BorderColor="#000000">
+    <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" Font-Underline="False" />
+    <RowStyle BackColor="#D5E4E9" ForeColor="#333333" Font-Size="8pt" Font-Underline="False" />
+    <EditRowStyle BackColor="#999999" Font-Underline="False" />
+    <SelectedRowStyle BackColor="#cccccc" Font-Bold="True" ForeColor="#333333" Font-Underline="False" />
+    <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <HeaderStyle BackColor="#28A2C9" Font-Bold="True" ForeColor="White" HorizontalAlign="Left" Font-Underline="False" />
+    <AlternatingRowStyle BackColor="White" ForeColor="#284775" Font-Underline="False" />
+</asp:GridView>
+
+<asp:DetailsView runat="server" AllowPaging="False" ForeColor="Black"
+    ForeName="Verdana" SkinId="DetailsView1" CssClass="externo" AllowSorting="True"
+    HeaderStyle-BorderColor="White" Font-Names="Verdana" 
+    BackColor="Transparent" Font-Underline="False">
+    <RowStyle ForeColor="#333333"  Font-Underline="False" />
+    <HeaderStyle Font-Bold="True" ForeColor="Black" HorizontalAlign="Left" Font-Underline="False" />
+    <AlternatingRowStyle ForeColor="#284775" Font-Underline="False" BackColor="#DCDCDC" />
+</asp:DetailsView>
+
+<asp:Button SkinId="ButtonSK1" runat="server" ForeColor="#444" Font-Names="Verdana"
+BorderWidth="1px" BorderStyle="Solid" BorderColor="Gray" BackColor="#F1F1F1" Width="79px"></asp:Button>
+
+<asp:Button SkinId="ButtonSK2" runat="server" ForeColor="#444" Font-Names="Verdana" 
+BorderWidth="1px" BorderStyle="Solid" BorderColor="Gray" BackColor="#F1F1F1"></asp:Button>
+
+<asp:FileUpload SkinId="FileUploadSK1" runat="server" ForeColor="#444"  Font-Names="Verdana" 
+BorderWidth="1px" BorderStyle="Solid" BorderColor="Gray" BackColor="#F1F1F1"></asp:FileUpload>
